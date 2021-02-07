@@ -10,6 +10,7 @@ Este curso vemos:
 * El amor
 * Trucos
 * Las personalidades
+* Creado para el increíble Platzi Team
 
 Y como un amable recordatorio: **Este readme.me es un chiste**. Diseñado
 para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver al curso**](https://plazi.com/cursos/git-github/"a ver el curso").
